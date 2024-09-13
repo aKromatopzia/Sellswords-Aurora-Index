@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>UA.index</name>
-		<update version="0.0.2">
+		<update version="0.0.3">
 			<file name="UA.index" url="https://raw.githubusercontent.com/aKromatopzia/Kolours-Aurora-Index/main/UA-Ports/UA.index" />
 		</update>
 	</info>
@@ -13,5 +13,6 @@
 		<file name="UA_2023_Mastery.xml" url="https://raw.githubusercontent.com/aKromatopzia/Kolours-Aurora-Index/main/UA-Ports/UA_2023_Mastery.xml" />
 		<file name="UA_2023_Arcane_Trickster.xml" url="https://raw.githubusercontent.com/aKromatopzia/Kolours-Aurora-Index/main/UA-Ports/UA_2023_Arcane_Trickster.xml" />
 		<file name="UA_2023_fht-brawler.xml" url="https://raw.githubusercontent.com/aKromatopzia/Kolours-Aurora-Index/main/UA-Ports/UA_2023_fht-brawler.xml" />
+		<file name="UA_2023_monk.xml" url="https://raw.githubusercontent.com/aKromatopzia/Kolours-Aurora-Index/main/UA-Ports/UA_2023_monk.xml" />
 	</files>
 </index>
